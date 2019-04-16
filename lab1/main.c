@@ -13,20 +13,6 @@ int main(void)
 	//Unlimited cycle
 	while(1)
 	{
-		/*
-		LED1_ON();
-		delay(DELAY_VAL);
-		LED1_OFF();
-		LED2_ON();
-		delay(DELAY_VAL);
-		LED2_OFF();
-		LED3_ON();
-		delay(DELAY_VAL);
-		LED3_OFF();
-		LED4_ON();a
-		delay(DELAY_VAL);
-		LED4_OFF();
-		*/
 		LED1_ON_OFF();
 		delay(DELAY_VAL);
 		LED2_ON_OFF();
